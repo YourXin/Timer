@@ -21,7 +21,7 @@ java.util.Timer
 
 
 
-![1539338180862](C:\Users\BigOrang\AppData\Roaming\Typora\typora-user-images\1539338180862.png)
+![1539338180862](https://github.com/YourXin/Timer/blob/master/static/1539338180862.png)
 
 - schedule的4种方法
   - `schedule(TimerTask task, Date time)`	time具体的时间，在时间等于或超过time的时候执行且只执行一次task
